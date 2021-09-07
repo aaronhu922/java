@@ -57,7 +57,7 @@
 
 ##### （一）一主一从
 
-![1570714549624](e:\lian\oracle\typora-user-images\1570714549624.png)
+![1570714549624](..\image\typora-user-images\1570714549624.png)
 
 ##### （二）主主复制
 
